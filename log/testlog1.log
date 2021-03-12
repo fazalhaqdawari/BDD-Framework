@@ -1,0 +1,392 @@
+2021-02-04 21:32:48,120 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-04 21:32:52,076 [main] INFO logger_File - Retail page is opened
+2021-02-04 21:32:52,084 [main] INFO logger_File - Page title  is verified
+2021-02-04 21:32:52,646 [main] INFO logger_File - User entered value in search bar
+2021-02-04 21:32:53,486 [main] INFO logger_File - User clicked on search button
+2021-02-04 21:32:53,837 [main] INFO logger_File - iPhone image is displayed
+2021-02-04 21:32:54,448 [main] INFO logger_File - Search functionality Test case   passed
+2021-02-05 10:29:14,214 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-05 10:29:23,133 [main] INFO logger_File - Retail page is opened
+2021-02-05 10:29:23,140 [main] INFO logger_File - Page title  is verified
+2021-02-05 10:29:23,642 [main] INFO logger_File - User entered value in search bar
+2021-02-05 10:29:24,562 [main] INFO logger_File - User clicked on search button
+2021-02-05 10:29:24,931 [main] INFO logger_File - iPhone image is displayed
+2021-02-05 10:29:25,635 [main] INFO logger_File - Search functionality Test case   passed
+2021-02-05 11:58:58,129 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-05 11:59:02,572 [main] INFO logger_File - Retail page is opened
+2021-02-05 11:59:02,579 [main] INFO logger_File - Page title  is verified
+2021-02-05 11:59:03,073 [main] INFO logger_File - User entered value in search bar
+2021-02-05 11:59:04,020 [main] INFO logger_File - User clicked on search button
+2021-02-05 11:59:04,375 [main] INFO logger_File - iPhone image is displayed
+2021-02-05 11:59:05,088 [main] INFO logger_File - Search functionality Test case   passed
+2021-02-05 12:05:20,937 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-05 12:05:25,288 [main] INFO logger_File - Retail page is opened
+2021-02-05 12:05:25,299 [main] INFO logger_File - Page title  is verified
+2021-02-05 12:05:25,757 [main] INFO logger_File - User entered value in search bar
+2021-02-05 12:05:26,623 [main] INFO logger_File - User clicked on search button
+2021-02-05 12:05:26,970 [main] INFO logger_File - iPhone image is displayed
+2021-02-05 12:05:27,636 [main] INFO logger_File - Search functionality Test case   passed
+2021-02-05 12:14:15,415 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-05 12:14:20,290 [main] INFO logger_File - Retail page is opened
+2021-02-05 12:14:20,301 [main] INFO logger_File - Page title  is verified
+2021-02-05 12:14:20,785 [main] INFO logger_File - User entered value in search bar
+2021-02-05 12:14:21,572 [main] INFO logger_File - User clicked on search button
+2021-02-05 12:14:21,932 [main] INFO logger_File - iPhone image is displayed
+2021-02-05 12:14:22,599 [main] INFO logger_File - Search functionality Test case   passed
+2021-02-08 20:15:11,913 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-08 20:15:23,511 [main] INFO logger_File - Retail page is opened
+2021-02-08 20:15:23,519 [main] INFO logger_File - Page title  is verified
+2021-02-08 20:15:24,687 [main] INFO logger_File - Search functionality Test case   failed
+2021-02-08 20:16:21,374 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-08 20:16:25,287 [main] INFO logger_File - Retail page is opened
+2021-02-08 20:16:25,296 [main] INFO logger_File - Page title  is verified
+2021-02-08 20:16:25,756 [main] INFO logger_File - User entered value in search bar
+2021-02-08 20:16:26,631 [main] INFO logger_File - User clicked on search button
+2021-02-08 20:16:26,999 [main] INFO logger_File - iPhone image is displayed
+2021-02-08 20:16:27,653 [main] INFO logger_File - Search functionality Test case   passed
+2021-02-08 20:33:54,432 [main] INFO logger_File - Scenario Register and  Account test case Started 
+2021-02-08 20:36:31,229 [main] INFO logger_File - Scenario Register and  Account test case Started 
+2021-02-08 20:43:31,125 [main] INFO logger_File - Scenario Login to MyAccount Started 
+2021-02-08 20:43:34,920 [main] INFO logger_File - Retail page is opened
+2021-02-08 20:43:34,930 [main] INFO logger_File - Page title  is verified
+2021-02-08 20:43:35,380 [main] INFO logger_File - User click on My Account
+2021-02-08 20:43:35,669 [main] INFO logger_File - User click on Login
+2021-02-08 20:43:39,068 [main] INFO logger_File - User enter email address
+2021-02-08 20:43:39,116 [main] INFO logger_File - User enter password
+2021-02-08 20:43:39,819 [main] INFO logger_File - User click on Login button
+2021-02-08 20:43:43,810 [main] INFO logger_File - Login to MyAccount   passed
+2021-02-08 20:43:43,816 [main] INFO logger_File - Scenario Login to Retail Site with multiple users Started 
+2021-02-08 20:43:46,856 [main] INFO logger_File - Retail page is opened
+2021-02-08 20:43:46,864 [main] INFO logger_File - Page title  is verified
+2021-02-08 20:43:47,315 [main] INFO logger_File - User click on My Account
+2021-02-08 20:43:47,581 [main] INFO logger_File - User click on Login
+2021-02-08 20:43:50,960 [main] INFO logger_File - User enter email address
+2021-02-08 20:43:51,007 [main] INFO logger_File - User enter password
+2021-02-08 20:43:51,709 [main] INFO logger_File - User click on Login button
+2021-02-08 20:43:55,686 [main] INFO logger_File - Login to Retail Site with multiple users   passed
+2021-02-08 20:43:55,691 [main] INFO logger_File - Scenario Login to Retail Site with multiple users Started 
+2021-02-08 20:44:00,178 [main] INFO logger_File - Retail page is opened
+2021-02-08 20:44:00,184 [main] INFO logger_File - Page title  is verified
+2021-02-08 20:44:00,576 [main] INFO logger_File - User click on My Account
+2021-02-08 20:44:00,812 [main] INFO logger_File - User click on Login
+2021-02-08 20:44:04,186 [main] INFO logger_File - User enter email address
+2021-02-08 20:44:04,249 [main] INFO logger_File - User enter password
+2021-02-08 20:44:04,962 [main] INFO logger_File - User click on Login button
+2021-02-08 20:44:08,896 [main] INFO logger_File - Login to Retail Site with multiple users   passed
+2021-02-08 20:44:08,899 [main] INFO logger_File - Scenario Login to Retail Site with multiple users Started 
+2021-02-08 20:44:11,816 [main] INFO logger_File - Retail page is opened
+2021-02-08 20:44:12,066 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-08 21:18:24,034 [main] INFO logger_File - Scenario Login to MyAccount Started 
+2021-02-08 21:18:28,311 [main] INFO logger_File - Retail page is opened
+2021-02-08 21:18:28,320 [main] INFO logger_File - Page title  is verified
+2021-02-08 21:18:28,767 [main] INFO logger_File - User click on My Account
+2021-02-08 21:18:29,004 [main] INFO logger_File - User click on Login
+2021-02-08 21:18:32,409 [main] INFO logger_File - User enter email address
+2021-02-08 21:18:32,470 [main] INFO logger_File - User enter password
+2021-02-08 21:18:33,169 [main] INFO logger_File - User click on Login button
+2021-02-08 21:18:37,147 [main] INFO logger_File - Login to MyAccount   passed
+2021-02-08 21:18:37,154 [main] INFO logger_File - Scenario Login to Retail Site with multiple users Started 
+2021-02-08 21:18:40,206 [main] INFO logger_File - Retail page is opened
+2021-02-08 21:18:40,218 [main] INFO logger_File - Page title  is verified
+2021-02-08 21:18:40,679 [main] INFO logger_File - User click on My Account
+2021-02-08 21:18:40,921 [main] INFO logger_File - User click on Login
+2021-02-08 21:18:44,294 [main] INFO logger_File - User enter email address
+2021-02-08 21:18:44,346 [main] INFO logger_File - User enter password
+2021-02-08 21:18:45,069 [main] INFO logger_File - User click on Login button
+2021-02-08 21:18:49,046 [main] INFO logger_File - Login to Retail Site with multiple users   passed
+2021-02-08 21:18:49,050 [main] INFO logger_File - Scenario Login to Retail Site with multiple users Started 
+2021-02-08 21:18:52,395 [main] INFO logger_File - Retail page is opened
+2021-02-08 21:18:52,402 [main] INFO logger_File - Page title  is verified
+2021-02-08 21:18:52,798 [main] INFO logger_File - User click on My Account
+2021-02-08 21:18:53,021 [main] INFO logger_File - User click on Login
+2021-02-08 21:19:08,489 [main] INFO logger_File - Scenario Login to Retail Site with multiple users Started 
+2021-02-08 21:19:11,672 [main] INFO logger_File - Retail page is opened
+2021-02-08 21:19:11,727 [main] INFO logger_File - Scenario Search functionality Test case Started 
+2021-02-08 21:19:25,672 [main] INFO logger_File - Scenario Register and  Account test case Started 
+2021-02-08 21:35:05,801 [main] INFO logger_File - Scenario Register and  Account test case Started 
+2021-02-08 21:41:59,439 [main] INFO logger_File - Scenario Register and  Account test case Started 
+2021-02-08 21:44:28,644 [main] INFO logger_File - Scenario Register and  Account test case Started 
+2021-02-08 21:44:31,516 [main] INFO logger_File - Register and  Account test case   undefined
+2021-02-08 21:45:03,584 [main] INFO logger_File - Scenario Register and  Account test case Started 
+2021-02-08 21:45:06,091 [main] INFO logger_File - Register and  Account test case   undefined
+2021-02-08 21:57:21,667 [main] INFO logger_File - Scenario Register and  Account test case Started 
+2021-02-08 21:57:24,636 [main] INFO logger_File - Register and  Account test case   undefined
+2021-02-08 22:00:49,305 [main] INFO logger_File - Scenario Register and  Account test case Started 
+2021-02-08 22:00:53,672 [main] INFO logger_File - Retail page is opened
+2021-02-08 22:00:53,684 [main] INFO logger_File - Page title  is verified
+2021-02-08 22:00:54,781 [main] INFO logger_File - Register and  Account test case   undefined
+2021-02-08 22:03:16,184 [main] INFO logger_File - Scenario Register and  Account test case Started 
+2021-02-08 22:03:20,199 [main] INFO logger_File - Retail page is opened
+2021-02-08 22:03:20,209 [main] INFO logger_File - Page title  is verified
+2021-02-08 22:03:20,674 [main] INFO logger_File - User click on My Account
+2021-02-08 22:03:22,130 [main] INFO logger_File - User clicked on Register option
+2021-02-08 22:03:22,532 [main] INFO logger_File - User filled the information form
+2021-02-08 22:03:22,987 [main] INFO logger_File - User check privacy and policy
+2021-02-08 22:03:26,300 [main] INFO logger_File - User clicked on Continue button
+2021-02-08 22:04:12,044 [main] INFO logger_File - Register and  Account test case   failed
+2021-02-08 22:04:32,059 [main] INFO logger_File - Scenario Register and  Account test case Started 
+2021-02-08 22:04:36,536 [main] INFO logger_File - Retail page is opened
+2021-02-08 22:04:36,548 [main] INFO logger_File - Page title  is verified
+2021-02-08 22:04:36,982 [main] INFO logger_File - User click on My Account
+2021-02-08 22:04:37,597 [main] INFO logger_File - User clicked on Register option
+2021-02-08 22:04:38,006 [main] INFO logger_File - User filled the information form
+2021-02-08 22:04:38,467 [main] INFO logger_File - User check privacy and policy
+2021-02-08 22:04:39,067 [main] INFO logger_File - User clicked on Continue button
+2021-02-08 22:06:06,662 [main] INFO logger_File - Scenario Register and  Account test case Started 
+2021-02-08 22:06:11,055 [main] INFO logger_File - Retail page is opened
+2021-02-08 22:06:11,066 [main] INFO logger_File - Page title  is verified
+2021-02-08 22:06:11,503 [main] INFO logger_File - User click on My Account
+2021-02-08 22:06:12,163 [main] INFO logger_File - User clicked on Register option
+2021-02-08 22:06:12,605 [main] INFO logger_File - User filled the information form
+2021-02-08 22:06:13,038 [main] INFO logger_File - User check privacy and policy
+2021-02-08 22:06:13,669 [main] INFO logger_File - User clicked on Continue button
+2021-02-08 22:11:22,004 [main] INFO logger_File - Scenario Register and  Account test case Started 
+2021-02-08 22:12:18,592 [main] INFO logger_File - Scenario Register and  Account test case Started 
+2021-02-08 22:12:22,606 [main] INFO logger_File - Retail page is opened
+2021-02-08 22:12:22,616 [main] INFO logger_File - Page title  is verified
+2021-02-08 22:12:23,097 [main] INFO logger_File - User click on My Account
+2021-02-08 22:12:23,841 [main] INFO logger_File - Register and  Account test case   failed
+2021-02-08 22:20:00,245 [main] INFO logger_File - Scenario Register and  Account test case Started 
+2021-02-08 22:20:06,504 [main] INFO logger_File - Retail page is opened
+2021-02-08 22:20:06,519 [main] INFO logger_File - Page title  is verified
+2021-02-08 22:20:07,033 [main] INFO logger_File - User click on My Account
+2021-02-08 22:20:07,708 [main] INFO logger_File - User clicked on Register option
+2021-02-08 22:20:08,123 [main] INFO logger_File - User filled the information form
+2021-02-08 22:20:08,533 [main] INFO logger_File - User check privacy and policy
+2021-02-08 22:20:09,366 [main] INFO logger_File - User clicked on Continue button
+2021-02-08 22:20:09,691 [main] INFO logger_File - Account was created Successfully
+2021-02-08 22:20:10,378 [main] INFO logger_File - Register and  Account test case   passed
+2021-02-08 22:22:44,038 [main] INFO logger_File - Scenario Register and  Account test case Started 
+2021-02-08 22:22:54,891 [main] INFO logger_File - Retail page is opened
+2021-02-08 22:22:54,900 [main] INFO logger_File - Page title  is verified
+2021-02-08 22:22:55,386 [main] INFO logger_File - User click on My Account
+2021-02-08 22:22:56,197 [main] INFO logger_File - User clicked on Register option
+2021-02-08 22:22:56,635 [main] INFO logger_File - User filled the information form
+2021-02-08 22:22:57,044 [main] INFO logger_File - User check privacy and policy
+2021-02-08 22:22:57,660 [main] INFO logger_File - User clicked on Continue button
+2021-02-08 22:23:47,675 [main] INFO logger_File - Scenario Register and  Account test case Started 
+2021-02-08 22:23:52,847 [main] INFO logger_File - Retail page is opened
+2021-02-08 22:23:52,856 [main] INFO logger_File - Page title  is verified
+2021-02-08 22:23:53,392 [main] INFO logger_File - User click on My Account
+2021-02-08 22:23:54,007 [main] INFO logger_File - User clicked on Register option
+2021-02-08 22:23:54,394 [main] INFO logger_File - User filled the information form
+2021-02-08 22:23:54,796 [main] INFO logger_File - User check privacy and policy
+2021-02-08 22:23:55,594 [main] INFO logger_File - User clicked on Continue button
+2021-02-08 22:23:55,932 [main] INFO logger_File - Account was created Successfully
+2021-02-08 22:23:56,604 [main] INFO logger_File - Register and  Account test case   passed
+2021-02-09 20:01:13,759 [main] INFO logger_File - Scenario execute all information from Actor Table Started 
+2021-02-09 20:01:18,523 [main] INFO logger_File - Connectoin is established between JDBC and DB
+2021-02-09 20:01:19,184 [main] INFO logger_File - execute all information from Actor Table   undefined
+2021-02-09 20:03:04,727 [main] INFO logger_File - Scenario execute all information from Actor Table Started 
+2021-02-09 20:03:06,774 [main] INFO logger_File - Connectoin is established between JDBC and DB
+2021-02-09 20:03:07,424 [main] INFO logger_File - execute all information from Actor Table   failed
+2021-02-09 20:04:14,113 [main] INFO logger_File - Scenario execute all information from Actor Table Started 
+2021-02-09 20:04:16,324 [main] INFO logger_File - Connectoin is established between JDBC and DB
+2021-02-09 20:04:16,992 [main] INFO logger_File - execute all information from Actor Table   failed
+2021-02-09 20:07:13,420 [main] INFO logger_File - Scenario execute all information from Actor Table Started 
+2021-02-09 20:07:15,423 [main] INFO logger_File - Connectoin is established between JDBC and DB
+2021-02-09 20:07:16,064 [main] INFO logger_File - execute all information from Actor Table   undefined
+2021-02-09 20:08:24,139 [main] INFO logger_File - Scenario execute all information from Actor Table Started 
+2021-02-09 20:08:26,229 [main] INFO logger_File - Connectoin is established between JDBC and DB
+2021-02-09 20:08:26,867 [main] INFO logger_File - execute all information from Actor Table   undefined
+2021-02-09 20:08:56,000 [main] INFO logger_File - Scenario execute all information from Actor Table Started 
+2021-02-09 20:08:57,995 [main] INFO logger_File - Connectoin is established between JDBC and DB
+2021-02-09 20:08:58,641 [main] INFO logger_File - execute all information from Actor Table   undefined
+2021-02-09 20:17:23,898 [main] INFO logger_File - Scenario execute all information from Actor Table Started 
+2021-02-09 20:17:27,665 [main] INFO logger_File - Connectoin is established between JDBC and DB
+2021-02-09 20:17:28,295 [main] INFO logger_File - execute all information from Actor Table   undefined
+2021-02-09 20:34:08,879 [main] INFO logger_File - Scenario execute all information from Actor Table Started 
+2021-02-09 20:34:11,095 [main] INFO logger_File - Connectoin is established between JDBC and DB
+2021-02-09 20:34:11,744 [main] INFO logger_File - execute all information from Actor Table   undefined
+2021-02-09 20:35:21,376 [main] INFO logger_File - Scenario execute all information from Actor Table Started 
+2021-02-09 20:35:23,474 [main] INFO logger_File - Connectoin is established between JDBC and DB
+2021-02-09 20:35:24,116 [main] INFO logger_File - execute all information from Actor Table   undefined
+2021-02-09 20:38:41,087 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2021-02-09 20:38:43,294 [main] INFO logger_File - Connectoin is established between JDBC and DB
+2021-02-09 20:38:43,963 [main] INFO logger_File - Execute all information from Actor Table   undefined
+2021-02-09 20:41:25,961 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2021-02-09 20:41:27,977 [main] INFO logger_File - Connectoin is established between JDBC and DB
+2021-02-09 20:41:28,618 [main] INFO logger_File - Execute all information from Actor Table   undefined
+2021-02-09 20:43:25,704 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2021-02-09 20:43:27,932 [main] INFO logger_File - Connectoin is established between JDBC and DB
+2021-02-09 20:43:28,578 [main] INFO logger_File - Execute all information from Actor Table   undefined
+2021-02-09 20:45:42,037 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2021-02-09 20:45:44,048 [main] INFO logger_File - Connectoin is established between JDBC and DB
+2021-02-09 20:45:44,678 [main] INFO logger_File - Execute all information from Actor Table   undefined
+2021-02-09 20:47:15,632 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2021-02-09 20:47:17,654 [main] INFO logger_File - Connectoin is established between JDBC and DB
+2021-02-09 20:47:18,299 [main] INFO logger_File - Execute all information from Actor Table   undefined
+2021-02-09 20:47:38,841 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2021-02-09 20:47:40,999 [main] INFO logger_File - Connectoin is established between JDBC and DB
+2021-02-09 20:47:41,677 [main] INFO logger_File - Execute all information from Actor Table   undefined
+2021-02-09 20:53:00,828 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2021-02-09 20:53:03,155 [main] INFO logger_File - Connectoin is established between JDBC and DB
+2021-02-09 20:53:03,820 [main] INFO logger_File - Execute all information from Actor Table   undefined
+2021-02-09 20:53:50,964 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2021-02-09 20:53:53,329 [main] INFO logger_File - Connectoin is established between JDBC and DB
+2021-02-09 20:53:54,014 [main] INFO logger_File - Execute all information from Actor Table   undefined
+2021-02-09 20:56:07,323 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2021-02-09 20:56:09,535 [main] INFO logger_File - Connectoin is established between JDBC and DB
+2021-02-09 20:56:10,197 [main] INFO logger_File - Execute all information from Actor Table   undefined
+2021-02-09 20:57:36,446 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2021-02-09 20:57:38,673 [main] INFO logger_File - Connectoin is established between JDBC and DB
+2021-02-09 20:57:39,314 [main] INFO logger_File - Execute all information from Actor Table   undefined
+2021-02-09 20:58:21,217 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2021-02-09 20:58:23,487 [main] INFO logger_File - Connectoin is established between JDBC and DB
+2021-02-09 20:58:24,143 [main] INFO logger_File - Execute all information from Actor Table   undefined
+2021-02-09 21:12:17,139 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2021-02-09 21:12:19,368 [main] INFO logger_File - Connectoin is established between JDBC and DB
+2021-02-09 21:12:20,053 [main] INFO logger_File - Execute all information from Actor Table   undefined
+2021-02-09 21:16:12,927 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2021-02-09 21:16:15,177 [main] INFO logger_File - Connectoin is established between JDBC and DB
+2021-02-09 21:16:15,834 [main] INFO logger_File - Execute all information from Actor Table   undefined
+2021-02-09 21:17:39,952 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2021-02-09 21:17:42,111 [main] INFO logger_File - Connectoin is established between JDBC and DB
+2021-02-09 21:17:42,770 [main] INFO logger_File - Execute all information from Actor Table   failed
+2021-02-09 21:19:16,644 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2021-02-09 21:19:18,958 [main] INFO logger_File - Connectoin is established between JDBC and DB
+2021-02-09 21:19:18,971 [main] INFO logger_File - select * from public.actor: has been executerd
+2021-02-09 21:19:19,002 [main] INFO logger_File - ResultSet is stored in a csv file in outcome folder
+2021-02-09 21:19:19,003 [main] INFO logger_File - Database connection has been closed
+2021-02-09 21:19:19,656 [main] INFO logger_File - Execute all information from Actor Table   passed
+2021-02-09 21:22:07,748 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2021-02-09 21:22:09,863 [main] INFO logger_File - Connectoin is established between JDBC and DB
+2021-02-09 21:22:09,881 [main] INFO logger_File - select * from public.actor: has been executerd
+2021-02-09 21:22:09,911 [main] INFO logger_File - ResultSet is stored in a csv file in outcome folder
+2021-02-09 21:22:09,911 [main] INFO logger_File - Database connection has been closed
+2021-02-09 21:22:10,566 [main] INFO logger_File - Execute all information from Actor Table   passed
+2021-02-09 21:24:22,328 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2021-02-09 21:24:24,364 [main] INFO logger_File - Connectoin is established between JDBC and DB
+2021-02-09 21:24:24,377 [main] INFO logger_File - select * from public.actor: has been executerd
+2021-02-09 21:24:24,403 [main] INFO logger_File - ResultSet is stored in a csv file in outcome folder
+2021-02-09 21:24:24,404 [main] INFO logger_File - Database connection has been closed
+2021-02-09 21:24:25,049 [main] INFO logger_File - Execute all information from Actor Table   passed
+2021-02-12 22:24:36,587 [main] INFO logger_File - Scenario User verify all items are present in Desktops Started 
+2021-02-12 22:24:42,308 [main] INFO logger_File - Retail page is opened
+2021-02-12 22:24:42,334 [main] INFO logger_File - Page title  is verified
+2021-02-12 22:24:43,532 [main] INFO logger_File - User verify all items are present in Desktops   undefined
+2021-02-12 22:46:48,340 [main] INFO logger_File - Scenario User verify all items are present in Desktops Started 
+2021-02-12 22:46:52,528 [main] INFO logger_File - Retail page is opened
+2021-02-12 22:46:52,542 [main] INFO logger_File - Page title  is verified
+2021-02-12 22:46:53,157 [main] INFO logger_File - User clicked on desktop
+2021-02-12 22:46:54,522 [main] INFO logger_File - user click on show all desktops
+2021-02-12 22:46:55,966 [main] INFO logger_File - User verify all items are present in Desktops   passed
+2021-02-12 22:48:55,262 [main] INFO logger_File - Scenario User verify all items are present in Desktops Started 
+2021-02-12 22:48:59,511 [main] INFO logger_File - Retail page is opened
+2021-02-12 22:48:59,522 [main] INFO logger_File - Page title  is verified
+2021-02-12 22:48:59,994 [main] INFO logger_File - User clicked on desktop
+2021-02-12 22:49:01,180 [main] INFO logger_File - user click on show all desktops
+2021-02-12 22:49:02,251 [main] INFO logger_File - User verify all items are present in Desktops   passed
+2021-02-12 22:58:43,943 [main] INFO logger_File - Scenario User verify all items are present in Desktops Started 
+2021-02-12 22:58:48,044 [main] INFO logger_File - Retail page is opened
+2021-02-12 22:58:48,053 [main] INFO logger_File - Page title  is verified
+2021-02-12 22:58:48,549 [main] INFO logger_File - User clicked on desktop
+2021-02-12 22:58:49,567 [main] INFO logger_File - user click on show all desktops
+2021-02-12 22:58:50,661 [main] INFO logger_File - User verify all items are present in Desktops   passed
+2021-02-12 23:00:37,103 [main] INFO logger_File - Scenario User verify all items are present in Desktops Started 
+2021-02-12 23:00:41,331 [main] INFO logger_File - Retail page is opened
+2021-02-12 23:00:41,341 [main] INFO logger_File - Page title  is verified
+2021-02-12 23:00:41,822 [main] INFO logger_File - User clicked on desktop
+2021-02-12 23:00:43,025 [main] INFO logger_File - user click on show all desktops
+2021-02-12 23:00:44,445 [main] INFO logger_File - User verify all items are present in Desktops   passed
+2021-02-12 23:02:55,549 [main] INFO logger_File - Scenario User verify all items are present in Desktops Started 
+2021-02-12 23:02:59,353 [main] INFO logger_File - Retail page is opened
+2021-02-12 23:02:59,365 [main] INFO logger_File - Page title  is verified
+2021-02-12 23:02:59,939 [main] INFO logger_File - User clicked on desktop
+2021-02-12 23:03:01,090 [main] INFO logger_File - user click on show all desktops
+2021-02-12 23:03:01,814 [main] INFO logger_File - by this should take screen shot
+2021-02-12 23:03:02,527 [main] INFO logger_File - User verify all items are present in Desktops   passed
+2021-02-14 22:05:49,130 [main] INFO logger_File - Scenario Login to Retail Site with multiple users Started 
+2021-02-14 22:06:00,221 [main] INFO logger_File - Retail page is opened
+2021-02-14 22:06:00,234 [main] INFO logger_File - Page title  is verified
+2021-02-14 22:06:00,748 [main] INFO logger_File - User click on My Account
+2021-02-14 22:06:01,046 [main] INFO logger_File - User click on Login
+2021-02-14 22:06:04,450 [main] INFO logger_File - User enter email address
+2021-02-14 22:06:04,516 [main] INFO logger_File - User enter password
+2021-02-14 22:06:05,235 [main] INFO logger_File - User click on Login button
+2021-02-14 22:06:09,257 [main] INFO logger_File - Login to Retail Site with multiple users   passed
+2021-02-14 22:06:09,262 [main] INFO logger_File - Scenario Login to Retail Site with multiple users Started 
+2021-02-14 22:06:12,715 [main] INFO logger_File - Retail page is opened
+2021-02-14 22:06:12,721 [main] INFO logger_File - Page title  is verified
+2021-02-14 22:06:13,217 [main] INFO logger_File - User click on My Account
+2021-02-14 22:06:13,473 [main] INFO logger_File - User click on Login
+2021-02-14 22:06:16,861 [main] INFO logger_File - User enter email address
+2021-02-14 22:06:16,923 [main] INFO logger_File - User enter password
+2021-02-14 22:06:17,667 [main] INFO logger_File - User click on Login button
+2021-02-14 22:06:21,668 [main] INFO logger_File - Login to Retail Site with multiple users   passed
+2021-02-14 22:06:21,672 [main] INFO logger_File - Scenario Login to Retail Site with multiple users Started 
+2021-02-14 22:06:24,923 [main] INFO logger_File - Retail page is opened
+2021-02-14 22:06:24,928 [main] INFO logger_File - Page title  is verified
+2021-02-14 22:06:25,479 [main] INFO logger_File - User click on My Account
+2021-02-14 22:06:25,735 [main] INFO logger_File - User click on Login
+2021-02-14 22:06:29,119 [main] INFO logger_File - User enter email address
+2021-02-14 22:06:29,181 [main] INFO logger_File - User enter password
+2021-02-14 22:06:29,873 [main] INFO logger_File - User click on Login button
+2021-02-14 22:06:33,890 [main] INFO logger_File - Login to Retail Site with multiple users   passed
+2021-02-18 14:02:30,476 [main] INFO logger_File - Scenario Login to Retail Site with multiple users Started 
+2021-02-18 14:02:31,545 [main] INFO logger_File - Scenario Login to Retail Site with multiple users Started 
+2021-02-18 14:02:37,786 [main] INFO logger_File - Retail page is opened
+2021-02-18 14:02:37,795 [main] INFO logger_File - Page title  is verified
+2021-02-18 14:02:37,851 [main] INFO logger_File - Retail page is opened
+2021-02-18 14:02:37,863 [main] INFO logger_File - Page title  is verified
+2021-02-18 14:02:38,508 [main] INFO logger_File - User click on My Account
+2021-02-18 14:02:38,814 [main] INFO logger_File - User click on Login
+2021-02-18 14:02:42,601 [main] INFO logger_File - Scenario Login to Retail Site with multiple users Started 
+2021-02-18 14:02:45,340 [main] INFO logger_File - Retail page is opened
+2021-02-18 14:02:49,483 [main] INFO logger_File - Scenario Login to Retail Site with multiple users Started 
+2021-02-18 14:02:52,335 [main] INFO logger_File - Retail page is opened
+2021-02-18 14:02:54,309 [main] INFO logger_File - Scenario Login to Retail Site with multiple users Started 
+2021-02-18 14:02:58,069 [main] INFO logger_File - Retail page is opened
+2021-02-18 14:02:58,075 [main] INFO logger_File - Page title  is verified
+2021-02-18 14:02:58,474 [main] INFO logger_File - User click on My Account
+2021-02-18 14:02:58,711 [main] INFO logger_File - User click on Login
+2021-02-20 19:36:59,953 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-02-20 19:37:05,338 [main] INFO logger_File - Retail page is opened
+2021-02-20 19:37:05,345 [main] INFO logger_File - Page title  is verified
+2021-02-20 19:37:06,444 [main] INFO logger_File - Add and Remove a Mac book from Cart   undefined
+2021-02-20 20:01:06,206 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-02-20 20:01:10,828 [main] INFO logger_File - Retail page is opened
+2021-02-20 20:01:10,837 [main] INFO logger_File - Page title  is verified
+2021-02-20 20:01:11,908 [main] INFO logger_File - Add and Remove a Mac book from Cart   passed
+2021-02-20 20:03:17,701 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-02-20 20:03:21,338 [main] INFO logger_File - Retail page is opened
+2021-02-20 20:03:21,345 [main] INFO logger_File - Page title  is verified
+2021-02-20 20:03:23,484 [main] INFO logger_File - Add and Remove a Mac book from Cart   passed
+2021-02-20 20:54:32,124 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-02-20 20:54:37,925 [main] INFO logger_File - Retail page is opened
+2021-02-20 20:54:37,936 [main] INFO logger_File - Page title  is verified
+2021-02-20 20:57:01,640 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-02-20 20:57:05,441 [main] INFO logger_File - Retail page is opened
+2021-02-20 20:57:05,448 [main] INFO logger_File - Page title  is verified
+2021-02-20 20:57:06,983 [main] INFO logger_File - Add and Remove a Mac book from Cart   failed
+2021-02-20 20:57:53,241 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-02-20 20:57:56,905 [main] INFO logger_File - Retail page is opened
+2021-02-20 20:57:56,914 [main] INFO logger_File - Page title  is verified
+2021-02-20 20:57:58,442 [main] INFO logger_File - Add and Remove a Mac book from Cart   undefined
+2021-02-20 21:05:51,464 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-02-20 21:05:55,462 [main] INFO logger_File - Retail page is opened
+2021-02-20 21:05:55,471 [main] INFO logger_File - Page title  is verified
+2021-02-20 21:05:58,538 [main] INFO logger_File - ChromeDriver: chrome on WINDOWS (3587b52081eb310e8e1f14a39a3ebe0c)
+2021-02-20 21:06:01,896 [main] INFO logger_File - Add and Remove a Mac book from Cart   failed
+2021-02-20 21:08:30,216 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-02-20 21:08:33,951 [main] INFO logger_File - Retail page is opened
+2021-02-20 21:08:33,960 [main] INFO logger_File - Page title  is verified
+2021-02-20 21:08:37,019 [main] INFO logger_File - ChromeDriver: chrome on WINDOWS (b8eaf9f9710a20025914a1ebed90700b)
+2021-02-20 21:09:25,674 [main] INFO logger_File - Add and Remove a Mac book from Cart   failed
+2021-02-20 21:10:14,694 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-02-20 21:10:18,443 [main] INFO logger_File - Retail page is opened
+2021-02-20 21:10:18,449 [main] INFO logger_File - Page title  is verified
+2021-02-20 21:10:21,274 [main] INFO logger_File - ChromeDriver: chrome on WINDOWS (d6427ad455eda183baea677fa5c8bb1c)
+2021-02-20 21:11:10,063 [main] INFO logger_File - Add and Remove a Mac book from Cart   failed
+2021-02-20 21:16:10,663 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-02-20 21:16:14,632 [main] INFO logger_File - Retail page is opened
+2021-02-20 21:16:14,640 [main] INFO logger_File - Page title  is verified
+2021-02-20 21:16:17,686 [main] INFO logger_File - ChromeDriver: chrome on WINDOWS (ef215e1fc5339f5354a006032950b60c)
+2021-02-20 21:16:20,885 [main] INFO logger_File - ChromeDriver: chrome on WINDOWS (ef215e1fc5339f5354a006032950b60c)
+2021-02-20 21:16:21,539 [main] INFO logger_File - Add and Remove a Mac book from Cart   passed
+2021-03-12 09:27:26,566 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started 
+2021-03-12 09:27:43,961 [main] INFO logger_File - Retail page is opened
+2021-03-12 09:27:43,969 [main] INFO logger_File - Page title  is verified
+2021-03-12 09:27:47,190 [main] INFO logger_File - ChromeDriver: chrome on WINDOWS (47b6397531daedfa125a3ce27a24b34f)
+2021-03-12 09:27:47,931 [main] INFO logger_File - ChromeDriver: chrome on WINDOWS (47b6397531daedfa125a3ce27a24b34f)
+2021-03-12 09:27:48,618 [main] INFO logger_File - Add and Remove a Mac book from Cart   passed
